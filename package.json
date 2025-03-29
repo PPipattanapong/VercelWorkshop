@@ -1,0 +1,19 @@
+{
+  "name": "vercelworkshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+"start" : "node src/server.js"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PPipattanapong/VercelWorkshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PPipattanapong/VercelWorkshop/issues"
+  },
+  "homepage": "https://github.com/PPipattanapong/VercelWorkshop#readme",
+  "description": ""
+}
