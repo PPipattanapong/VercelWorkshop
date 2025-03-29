@@ -1,0 +1,14 @@
+[
+    {
+        "item_id" : 1,
+        "reduce_day_to_grow" : 2
+    },
+    {
+        "item_id" : 2,
+        "reduce_day_to_grow" : 5
+    },
+    {
+        "item_id" : 3,
+        "reduce_day_to_grow" : 10
+    }
+]

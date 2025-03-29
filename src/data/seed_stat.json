@@ -1,0 +1,14 @@
+[
+    {
+        "item_id" : 1,
+        "until_grow" : 5
+    },
+    {
+        "item_id" : 2,
+        "until_grow" : 10
+    },
+    {
+        "item_id" : 3,
+        "until_grow" : 15
+    }
+]
